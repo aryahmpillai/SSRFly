@@ -14,7 +14,7 @@ A high-speed, low false-positive SSRF vulnerability testing tool with both comma
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/ssrfly.git
+git clone https://github.com/aryahmpillai/ssrfly.git
 cd ssrfly
 ```
 
